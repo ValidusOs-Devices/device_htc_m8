@@ -16,6 +16,17 @@
      "repository": "TheMuppets/proprietary_vendor_htc", 
      "target_path": "vendor/htc", 
      "branch": "cm-13.0"
+  },
+  {
+     "remote":       "cm",
+     "repository": "Cyanogenmod/android_device_qcom_common",
+     "target_path": "device/qcom/common",
+     "branch": "cm-13.0"
+  },
+  {
+     "remote":       "cm",  
+     "repository": "Cyanogenmod/android_device_samsung_qcom-common",
+     "target_path": "device/samsung/qcom-common",
+     "branch": "cm-13.0"
   }
-]   
-   
+]
