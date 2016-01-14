@@ -7,7 +7,7 @@
   },
   {
      "remote":      "gh",
-     "repository": "Tesla-M-Devices/kernel_htc_msm8974",
+     "repository": "Tesla-M-Devices/kernel_htc_msm8974-common",
      "target_path": "kernel/htc/msm8974",
      "branch": "6.0"  
   },
