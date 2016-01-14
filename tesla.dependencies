@@ -1,7 +1,7 @@
 [ 
    {
      "remote":      "gh",
-     "repository": "Tesla-M-Devices/device_htc_m8-common",
+     "repository": "Tesla-M-Devices/device_htc_m8",
      "target_path": "device/htc/m8-common",
      "branch": "6.0"
   },
