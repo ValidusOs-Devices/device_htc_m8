@@ -1,9 +1,9 @@
 [ 
    {
      "remote":      "github",
-     "repository": "Tesla-M-Devices/device_htc_m8",
+     "repository": "CyanogenMod/android_device_htc_m8-common",
      "target_path": "device/htc/m8-common",
-     "branch": "6.0"
+     "branch": "cm-13.0"
   },
   {
      "remote":      "github",
@@ -19,13 +19,13 @@
   },
   {
      "remote":       "github",
-     "repository": "Cyanogenmod/android_device_qcom_common",
+     "repository": "CyanogenMod/android_device_qcom_common",
      "target_path": "device/qcom/common",
      "branch": "cm-13.0"
   },
   {
      "remote":       "github",  
-     "repository": "Cyanogenmod/android_device_samsung_qcom-common",
+     "repository": "CyanogenMod/android_device_samsung_qcom-common",
      "target_path": "device/samsung/qcom-common",
      "branch": "cm-13.0"
   }
