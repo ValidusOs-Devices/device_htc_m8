@@ -1,21 +1,21 @@
 [ 
    {
      "remote":      "github",
-     "repository": "Tesla-M-Devices/device_htc_m8-common",
+     "repository": "ValidusOs-Devices/device_htc_m8-common",
      "target_path": "device/htc/m8-common",
-     "branch": "6.0"
+     "branch": "mm6.0"
   },
   {
      "remote":      "github",
-     "repository": "Tesla-M-Devices/device_htc_msm8974-common",
+     "repository": "ValidusOs-Devices/device_htc_msm8974-common",
      "target_path": "device/htc/msm8974-common",
-     "branch": "6.0"
+     "branch": "mm6.0"
   },
   {
      "remote":      "github",
-     "repository": "Tesla-M-Devices/kernel_htc_msm8974",
+     "repository": "ValidusOs-Devices/kernel_htc_msm8974",
      "target_path": "kernel/htc/msm8974",
-     "branch": "6.0"  
+     "branch": "mm6.0"  
   },
   {
      "remote":      "github", 
